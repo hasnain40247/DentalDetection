@@ -1,0 +1,19 @@
+item {
+    id: 1
+    name: 'filling'
+}
+
+item {
+    id: 2
+    name: 'impacted'
+}
+
+item {
+    id: 3
+    name: 'root canal'
+}
+
+item {
+    id: 4
+    name: 'caries'
+}
